@@ -119,4 +119,7 @@ Bu proje yalnızca bir görüntü sınıflandırma çalışması değil; aynı z
 ✨ **Sonuç:**  
 Bu proje, bilgisayarla görme ve doğal dil işleme yöntemlerini birleştirerek hem teknik hem de eğitsel fayda sağlayan özgün bir çözüm ortaya koymuştur.  
 
+## 📌 Kaggle Notebook
+Projenin Kaggle üzerinde çalışan versiyonuna buradan ulaşabilirsiniz:  
+👉 [Kaggle Notebook Linkim](https://www.kaggle.com/code/nazifebutun/lastlearn)
 
