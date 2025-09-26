@@ -91,6 +91,11 @@ Top-3: fox | TR: tilki | 1.2%
 - Eğitim doğruluğu: **%97**  
 - Doğrulama doğruluğu: **%70** civarında  
 - Görseller üzerinde nesne tanıma + Türkçe çeviri başarıyla çalıştı.  
+<img width="609" height="397" alt="image" src="https://github.com/user-attachments/assets/fb04535a-4f70-4b6c-8582-3c52034676a3" />
+
+<img width="633" height="437" alt="image" src="https://github.com/user-attachments/assets/9a8780f5-6aef-45df-95c3-1a3cfacbab13" />
+
+<img width="650" height="394" alt="image" src="https://github.com/user-attachments/assets/5451bde7-7105-43b6-8658-2ea8d4a4c0ee" />
 
 ---
 
